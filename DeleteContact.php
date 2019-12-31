@@ -56,7 +56,7 @@ if ($id) {
         $result = json_decode($response->getBody());
     } else {
         echo(json_encode([
-            'message' => "Request failed",
+            'message' => "Failed to Delete Contact From The List",
             'code' => 500,
         ]));
         die;
@@ -65,7 +65,7 @@ if ($id) {
 }
 
 echo(json_encode([
-    'message' => "Subscribed",
+    'message' => "Successfully Deleted Contact From The List",
     'code' => 200,
 ]));
 die;
