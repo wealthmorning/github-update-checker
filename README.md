@@ -4,6 +4,8 @@ Sendgrids Contact API by <a href="https://www.wealthmorning.com">Wealth Morning<
 <br />
 This project has 2 files one called AddContact.php and DeleteContact.php
 <br />
+<br />
 Addcontact.php shows you how you can add a contact to your sendgrid list.
+<br />
 <br />
 DeleteContact.php shows you how you can delete a contact from your sendgrid list.
