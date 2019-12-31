@@ -1,5 +1,7 @@
-<h1>Github Update Checker</h1>
-<a href="https://www.wealthmorning.com">Wealth Morning</a>
+<h1>Sendgrid Contacts API</h1>
+<a href="https://www.wealthmorning.com">Wealth Morning</a> Sendgrids Contact API
 <hr>
 <br />
-The project compares the package.json file in the projects solution so it can compare versions of solutions.
+This project has 2 files one called AddContact.php and DeleteContact.php
+Addcontact.php shows you how you can add a contact to your sendgrid list.
+DeleteContact.php shows you how you can delete a contact from your sendgrid list.
