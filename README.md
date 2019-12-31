@@ -1,5 +1,5 @@
 <h1>Sendgrid Contacts API</h1>
-<a href="https://www.wealthmorning.com">Wealth Morning</a> Sendgrids Contact API
+Sendgrids Contact API by <a href="https://www.wealthmorning.com">Wealth Morning</a> 
 <hr>
 <br />
 This project has 2 files one called AddContact.php and DeleteContact.php
